@@ -9,8 +9,8 @@
  
 [לחץ כאן על מנת לראות את הסקריפט](https://github.com/GameDev-K-G/HW8_3_Player/blob/main/Assets/Scripts/1-player/CharacterKeyboardMover.cs)
 
- 
- [itch.io:arrow_forward:](https://gamedevk-g.itch.io/tilemapgame)
+ # למשחק באתר itch.io :
+ [itch.io:arrow_forward:](https://gamedevk-g.itch.io/hw8player)
  
  
 ## תהנו :smiley:
